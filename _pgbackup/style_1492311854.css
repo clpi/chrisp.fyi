@@ -1,0 +1,50 @@
+
+
+body
+{
+    background-color: #fbf2f5;
+    color: #43234a;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1
+{
+    letter-spacing: 8px;
+    text-align: left;
+    text-transform: lowercase;
+    margin-left: 0px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+#content
+{
+    background-color: rgba(211, 177, 209, 0.3);
+    border-radius: 2px;
+}
+
+#portrait
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 3px;
+}
+
+button
+{
+    min-width: 100%;
+}
+
+h3
+{
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+
+p
+{
+    letter-spacing: 0.5px;
+    margin-bottom: 20px;
+}
+
